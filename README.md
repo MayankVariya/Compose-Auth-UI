@@ -21,9 +21,9 @@ This Android project demonstrates a simple and clean implementation of **Sign Up
 
 ## 📱 Screenshots
 
-| Sign In Screen | Home Screen                     |
-|----------------|---------------------------------|
-| ![SignIn](screenshots/signin.png) | ![Home](screenshots/signup.png) |
+| SignIn | SignUp | Home |
+|--------------|--------------|------|
+| ![SignIn](screenshots/signin.png) | ![SignUp](screenshots/signup.png) | ![Home](screenshots/home.png) |
 
 ## 🚀 Getting Started
 
