@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Authentify Application</string>
+    <string name="male">MALE</string>
+    <string name="login">LOGIN</string>
+    <string name="email">EMAIL</string>
+    <string name="ok">OK</string>
+    <string name="logout">LOGOUT</string>
+    <string name="female">FEMALE</string>
+    <string name="name">FULL NAME</string>
+    <string name="gender">GENDER :</string>
+    <string name="delete">DELETE</string>
+    <string name="address">ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="register">REGISTER</string>
+    <string name="result">Login Result</string>
+    <string name="login_now">LOGIN NOW</string>
+    <string name="birth_date">BIRTH DATE</string>
+    <string name="required_error">required *</string>
+    <string name="register_now">REGISTER NOW</string>
+    <string name="create_account">Not yet Account ?</string>
+    <string name="goto_login">Already have Account ?</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="not_found">User Not Found !</string>
+    <string name="login_image">https://media.istockphoto.com/id/1305268276/vector/registration-abstract-concept-vector-illustration.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=nfvUbHjcNDVIPdWkaxGx0z0WZaAEuBK9SyG-aIqg2-0=</string>
+</resources>
